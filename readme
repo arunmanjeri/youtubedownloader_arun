@@ -1,0 +1,16 @@
+#Youtube downloader
+
+#features
+>fetch url and display details and available file sizes
+>download
+>progressbar
+>multithreading
+
+#packages
+>tkinter
+>pytube
+
+#steps to run the code
+>source downloaders/bin/activate
+>python youdown.py
+>deactivate
